@@ -2,8 +2,8 @@
 ## AIM : 
 To detect and visualize the edges and contours of a coin using image processing techniques such as grayscale conversion, blurring, morphological operations, and Canny edge detection in OpenCV.
 ## PROGRAM:
-### NAME : ARCHANA T
-### REGISTER NUMBER : 212223240013
+### NAME : GOKUL PRAKASH M
+### REGISTER NUMBER : 212223240041
 ```
 # --- Step 0: Upload a coin image ---
 from google.colab import files
